@@ -1,2 +1,2 @@
 # Book_Management_System
-Book management system using GOLANG with MySql
+Book management system using GOLANG with MySQL
